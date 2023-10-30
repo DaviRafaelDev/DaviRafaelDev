@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Estatísticas</h4>
+<h3 align="left">Estatísticas</h4>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="left">Social-Medias</h4>
+<h3 align="left">Social-Medias</h4>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">Linguagens e Ferramentas</h4>
+<h3 align="left">Linguagens e Ferramentas</h4>
 
 ###
 
