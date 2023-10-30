@@ -1,4 +1,4 @@
-<h2 align="center">"Engenheiro de Software Apaixonado por Lógica e Algoritmos 💻"</h2>
+<h2 align="left">"Engenheiro de Software Apaixonado por Lógica e Algoritmos 💻"</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviRafaelDev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=DaviRafaelDev&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
@@ -17,7 +17,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/davi-rafael-42551b299/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
