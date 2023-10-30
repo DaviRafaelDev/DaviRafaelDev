@@ -36,55 +36,55 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" height="30" alt="electron logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="30" alt="oracle logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="30" alt="android logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="30" alt="debian logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="30" alt="godot logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="30" alt="aftereffects logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="30" alt="xd logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=black&style=for-the-badge" height="30" alt="firefox logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="30" alt="adobeaftereffects logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="adobephotoshop logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="7" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="30" alt="visualstudio logo"  />
 </div>
 
