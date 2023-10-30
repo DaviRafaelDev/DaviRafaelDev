@@ -72,9 +72,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DaviRafaelDev/DaviRafaelDev/output/snake.svg" alt="Snake animation" />
-
-###
