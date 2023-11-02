@@ -73,8 +73,6 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
   <img width="0" />
-  <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=black&style=for-the-badge" height="30" alt="firefox logo"  />
-  <img width="0" />
   <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="30" alt="adobeaftereffects logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="adobephotoshop logo"  />
