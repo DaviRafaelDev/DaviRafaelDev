@@ -1,5 +1,3 @@
-<h2 align="center">"Engenheiro de Software Apaixonado por Lógica e Algoritmos 💻"</h2>
-
 ###
 
 <h3 align="left">Estatísticas</h3>
